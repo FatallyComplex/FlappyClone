@@ -1,7 +1,7 @@
 # FlappyClone
 A unity based flappy bird clone
 
-##Authors
+## Authors
 Charles Bouchard
 
 ## Description
